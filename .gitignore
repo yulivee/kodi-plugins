@@ -2,3 +2,4 @@ docker-kodi-headless
 cookies.lwp
 temp*
 credentials.yml
+*.pyc
