@@ -2,6 +2,7 @@
 <addon id="plugin.addon.datura-online" name="Datura Online Bellydancing Lessons" version="0.01" provider-name="yulivee">
   <requires>
     <import addon="xbmc.python" version="2.14.0"/>
+    <import addon="script.module.parsedom" version="0.9.1"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="addon.py">
     <provides>video</provides>
